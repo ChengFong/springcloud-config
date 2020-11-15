@@ -1,1 +1,2 @@
-123=123
+config:
+  info: "master branch, springlcoud-config/cofnig-dev.yml version=1"
